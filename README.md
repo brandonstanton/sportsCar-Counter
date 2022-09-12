@@ -1,0 +1,1 @@
+This is a project that focuses on using event listeners in JavaScript to capture two main features. The first feature is the increment button that keeps track of how many times that button was clicked. The second is the saved button that keeps track of which number was saved when that button was clicked.
